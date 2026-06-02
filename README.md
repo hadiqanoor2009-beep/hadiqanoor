@@ -26,3 +26,6 @@ To become a Kubestronaut and contribute to the Cloud Native community while buil
 
 📚 I believe in learning by building, documenting my journey, and sharing knowledge with others.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiqanoor)](https://github.com/anuraghazra/github-readme-stats)
+<img width="1200" height="630" alt="uq0wX" src="https://github.com/user-attachments/assets/9d7e76d1-373d-4dbb-9a77-76d9dc99bc36" />
+
+
